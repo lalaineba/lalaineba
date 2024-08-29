@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lalaineba
+- 👋 Hi, I’m laine
 - 👀 I’m interested in ... films, gym, cooking
 - 🌱 I’m currently learning ... coding
 - 💞️ I’m looking to collaborate on ...
