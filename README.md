@@ -1,10 +1,7 @@
-- 👋 Hi, I’m laine
-- 👀 I’m interested in ... films, gym, cooking
-- 🌱 I’m currently learning ... coding
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 hi, im laine
+- 👀 im interested in films, gym, tv shows, animes, and cooking
+- 🌱 im currently learning computer stuff
+- ⛄ come and say hi
 
 <!---
 lalaineba/lalaineba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
