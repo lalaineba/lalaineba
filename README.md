@@ -1,7 +1,7 @@
-- 👋 hi, im laine
-- 👀 im interested in films, gym, tv shows, animes, and cooking
-- 🌱 im currently learning computer programming
-- ⛄ come and say hi
+- 👋 hi, im lalaine. i'm currently learning computer programming through application development and delivery program. my tech stack are python, sql (postgresql), nosql (mongodb), html, css, javascript (and more to come!).
+- 🧙‍♀️ i'm assionate about combining my technical expertise with user-focused design to create innovative, efficient, and accessible systems.
+- 🤓 my github profile shows the repositories i've developed through academic projects and courseworks.
+
 
 <!---
 lalaineba/lalaineba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
