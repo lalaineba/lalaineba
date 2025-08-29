@@ -1,5 +1,4 @@
 - 👋 hi, im lalaine. i'm currently learning computer programming through application development and delivery program. my tech stack are python, sql (postgresql), nosql (mongodb), html, css, javascript (and more to come!).
-- 🧙‍♀️ i'm assionate about combining my technical expertise with user-focused design to create innovative, efficient, and accessible systems.
 - 🤓 my github profile shows the repositories i've developed through academic projects and courseworks.
 
 
